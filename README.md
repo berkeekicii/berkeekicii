@@ -1,3 +1,5 @@
+![Berke Ekici, Computer Engineering Student](banner.svg)
+
 # Hi, I'm Berke Ekici
 
 [LinkedIn](https://www.linkedin.com/in/berke-ekici-61a249347/)
