@@ -40,8 +40,8 @@
     <g font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="15">
       <text x="24" y="74"><tspan fill="#c792ea">class</tspan> <tspan fill="#ffd479">Engineer</tspan><tspan fill="#cfe1ff">:</tspan></text>
       <text x="48" y="102"><tspan fill="#cfe1ff">name</tspan> <tspan fill="#8fb4ff">=</tspan> <tspan fill="#4fe0c4">"Berke Ekici"</tspan></text>
-      <text x="48" y="128"><tspan fill="#cfe1ff">studies</tspan> <tspan fill="#8fb4ff">=</tspan> <tspan fill="#4fe0c4">"Mersin Univ."</tspan></text>
-      <text x="48" y="154"><tspan fill="#cfe1ff">tools</tspan> <tspan fill="#8fb4ff">=</tspan> <tspan fill="#cfe1ff">[</tspan><tspan fill="#4fe0c4">"Rust"</tspan><tspan fill="#cfe1ff">, </tspan><tspan fill="#4fe0c4">"Python"</tspan><tspan fill="#cfe1ff">, </tspan><tspan fill="#4fe0c4">"C#"</tspan><tspan fill="#cfe1ff">]</tspan></text>
+      <text x="48" y="128"><tspan fill="#cfe1ff">studies</tspan> <tspan fill="#8fb4ff">=</tspan> <tspan fill="#4fe0c4">"Mersin University"</tspan></text>
+      <text x="48" y="154"><tspan fill="#cfe1ff">tools</tspan> <tspan fill="#8fb4ff">=</tspan> <tspan fill="#cfe1ff">[</tspan><tspan fill="#4fe0c4">"Python"</tspan><tspan fill="#cfe1ff">, </tspan><tspan fill="#4fe0c4">"C#"</tspan><tspan fill="#cfe1ff">, </tspan><tspan fill="#4fe0c4">"Rust"</tspan><tspan fill="#cfe1ff">]</tspan></text>
       <text x="48" y="180"><tspan fill="#cfe1ff">finds</tspan> <tspan fill="#8fb4ff">=</tspan> <tspan fill="#4fe0c4">"what doesn't fit"</tspan></text>
     </g>
   </g>
@@ -49,5 +49,5 @@
   <!-- bottom line -->
   <rect x="48" y="304" width="904" height="2" fill="url(#line)"/>
   <text x="48" y="326" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" fill="#7f9bc4">Mersin University</text>
-  <text x="952" y="326" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" fill="#7f9bc4">github.com/berkeekicii</text>
+  <text x="952" y="326" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" fill="#7f9bc4">linkedin.com/in/berke-ekici-61a249347</text>
 </svg>
